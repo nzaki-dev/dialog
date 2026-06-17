@@ -6,7 +6,7 @@ The attendance list was discovered hard-coded in the HTML of the official dialog
 
 I captured the website's HTML at the time of the leak, which included the names of the club's members.
 
-I am unaware of any nefarious activity by the organisation but find it interesting how many influential individuals were part of the society and would simply like to preserve the attendance list here in this repository.
+I am unaware of any nefarious activity by the organisation but find it interesting how many influential individuals were part of the society and would simply like to preserve the attendance list html file here in this repository.
 
 This list can also be found in the website HTML via the Wayback Machine at:
 

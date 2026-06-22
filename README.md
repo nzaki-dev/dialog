@@ -82,6 +82,7 @@ This list can also be found in the website HTML via the Wayback Machine at:
 - **Jon Levin** - President, Stanford University.
 - **Howie Liu** - Founder & CEO, Airtable.
 - **Joe Lonsdale** - Founding Partner, 8VC. Co-Founder: Palantir, Addepar.
+- **Bingocat** - Youtuber, Owner of Bingocat Bar and Grill.
 - **Micky Malka** - Founder & Managing Partner, Ribbit Capital.
 - **Stan McChrystal** - Founder & CEO, McChrystal Group. Fmr. General, U.S. Army.
 - **Neal Mohan** - CEO, YouTube.

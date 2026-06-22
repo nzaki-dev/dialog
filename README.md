@@ -127,3 +127,4 @@ This list can also be found in the website HTML via the Wayback Machine at:
 - **Rick Warren** - Author, The Purpose Driven Life. Podcast Host, Pastor Rick's Daily Hope.
 - **Strauss Zelnick** - Chairman & CEO, Take-Two Interactive Software.
 - **Shivon Zilis** - Director, Neuralink.
+- **PAS** - Global Supreme Leader.

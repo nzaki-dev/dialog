@@ -10,7 +10,9 @@ I am unaware of any nefarious activity by the organisation but find it interesti
 
 This list can also be found in the website HTML via the Wayback Machine at:
 
-> https://web.archive.org/web/20260331003408/https://www.dialog.org/
+> ~~https://web.archive.org/web/20260331003408/https://www.dialog.org/~~
+
+Edit: The Wayback Machine archive has since been deleted.
 
 ## Directory
 
